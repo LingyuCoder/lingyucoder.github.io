@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://lingyu.life/"/>
-  <updated>2020-03-07T15:11:55.019Z</updated>
+  <updated>2020-03-07T15:17:28.440Z</updated>
   <id>http://lingyu.life/</id>
   
   <author>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>用React做重构时的一些思考</title>
-    <link href="http://lingyu.life/2015/08/30/old/chonggou/"/>
-    <id>http://lingyu.life/2015/08/30/old/chonggou/</id>
+    <link href="http://lingyu.life/2015/08/30/chonggou/"/>
+    <id>http://lingyu.life/2015/08/30/chonggou/</id>
     <published>2015-08-29T16:00:00.000Z</published>
-    <updated>2020-03-07T15:11:55.019Z</updated>
+    <updated>2020-03-07T15:17:28.440Z</updated>
     
     <summary type="html">
     
@@ -41,10 +41,10 @@
   
   <entry>
     <title>轻松入门React和Webpack</title>
-    <link href="http://lingyu.life/2015/05/15/old/react-and-webpack/"/>
-    <id>http://lingyu.life/2015/05/15/old/react-and-webpack/</id>
+    <link href="http://lingyu.life/2015/05/15/react-and-webpack/"/>
+    <id>http://lingyu.life/2015/05/15/react-and-webpack/</id>
     <published>2015-05-14T16:00:00.000Z</published>
-    <updated>2020-03-07T15:11:55.024Z</updated>
+    <updated>2020-03-07T15:17:28.929Z</updated>
     
     <summary type="html">
     
@@ -62,10 +62,10 @@
   
   <entry>
     <title>4月26日杂谈</title>
-    <link href="http://lingyu.life/2015/04/26/old/sometalk-4-26/"/>
-    <id>http://lingyu.life/2015/04/26/old/sometalk-4-26/</id>
+    <link href="http://lingyu.life/2015/04/26/sometalk-4-26/"/>
+    <id>http://lingyu.life/2015/04/26/sometalk-4-26/</id>
     <published>2015-04-25T16:00:00.000Z</published>
-    <updated>2020-03-07T15:11:55.024Z</updated>
+    <updated>2020-03-07T15:17:29.027Z</updated>
     
     <summary type="html">
     
@@ -83,10 +83,10 @@
   
   <entry>
     <title>前端动画对比</title>
-    <link href="http://lingyu.life/2015/04/18/old/learn-canvas-1/"/>
-    <id>http://lingyu.life/2015/04/18/old/learn-canvas-1/</id>
+    <link href="http://lingyu.life/2015/04/18/learn-canvas-1/"/>
+    <id>http://lingyu.life/2015/04/18/learn-canvas-1/</id>
     <published>2015-04-17T16:00:00.000Z</published>
-    <updated>2020-03-07T15:11:55.021Z</updated>
+    <updated>2020-03-07T15:17:28.928Z</updated>
     
     <summary type="html">
     
@@ -111,10 +111,10 @@
   
   <entry>
     <title>读书破万卷，敲码别走神</title>
-    <link href="http://lingyu.life/2015/01/26/old/18-books/"/>
-    <id>http://lingyu.life/2015/01/26/old/18-books/</id>
+    <link href="http://lingyu.life/2015/01/26/18-books/"/>
+    <id>http://lingyu.life/2015/01/26/18-books/</id>
     <published>2015-01-25T16:00:00.000Z</published>
-    <updated>2020-03-07T15:11:55.019Z</updated>
+    <updated>2020-03-07T15:17:28.440Z</updated>
     
     <summary type="html">
     
@@ -132,10 +132,10 @@
   
   <entry>
     <title>构建华丽UI的7条准则（上部）</title>
-    <link href="http://lingyu.life/2014/11/24/old/7-rules-for-creating-gorgeous-ui-part-1/"/>
-    <id>http://lingyu.life/2014/11/24/old/7-rules-for-creating-gorgeous-ui-part-1/</id>
+    <link href="http://lingyu.life/2014/11/24/7-rules-for-creating-gorgeous-ui-part-1/"/>
+    <id>http://lingyu.life/2014/11/24/7-rules-for-creating-gorgeous-ui-part-1/</id>
     <published>2014-11-23T16:00:00.000Z</published>
-    <updated>2020-03-07T15:11:55.019Z</updated>
+    <updated>2020-03-07T15:17:28.440Z</updated>
     
     <summary type="html">
     
@@ -153,10 +153,10 @@
   
   <entry>
     <title>RisingStack的Node.js风格指南</title>
-    <link href="http://lingyu.life/2014/11/24/old/risingstack-nodejs-style-guide/"/>
-    <id>http://lingyu.life/2014/11/24/old/risingstack-nodejs-style-guide/</id>
+    <link href="http://lingyu.life/2014/11/24/risingstack-nodejs-style-guide/"/>
+    <id>http://lingyu.life/2014/11/24/risingstack-nodejs-style-guide/</id>
     <published>2014-11-23T16:00:00.000Z</published>
-    <updated>2020-03-07T15:11:55.159Z</updated>
+    <updated>2020-03-07T15:17:28.931Z</updated>
     
     <summary type="html">
     
@@ -174,10 +174,10 @@
   
   <entry>
     <title>Peertc和五子棋</title>
-    <link href="http://lingyu.life/2014/11/18/old/peertc-and-fivechess/"/>
-    <id>http://lingyu.life/2014/11/18/old/peertc-and-fivechess/</id>
+    <link href="http://lingyu.life/2014/11/18/peertc-and-fivechess/"/>
+    <id>http://lingyu.life/2014/11/18/peertc-and-fivechess/</id>
     <published>2014-11-17T16:00:00.000Z</published>
-    <updated>2020-03-07T15:11:55.023Z</updated>
+    <updated>2020-03-07T15:17:28.929Z</updated>
     
     <summary type="html">
     
@@ -205,10 +205,10 @@
   
   <entry>
     <title>使用WebRTC DataChannel在浏览器间传递数据</title>
-    <link href="http://lingyu.life/2014/10/21/old/datachannel/"/>
-    <id>http://lingyu.life/2014/10/21/old/datachannel/</id>
+    <link href="http://lingyu.life/2014/10/21/datachannel/"/>
+    <id>http://lingyu.life/2014/10/21/datachannel/</id>
     <published>2014-10-20T16:00:00.000Z</published>
-    <updated>2020-03-07T15:11:55.021Z</updated>
+    <updated>2020-03-07T15:17:28.440Z</updated>
     
     <summary type="html">
     
@@ -236,10 +236,10 @@
   
   <entry>
     <title>Gulp思维 —— Gulp高级技巧</title>
-    <link href="http://lingyu.life/2014/10/07/old/getting-gulpy/"/>
-    <id>http://lingyu.life/2014/10/07/old/getting-gulpy/</id>
+    <link href="http://lingyu.life/2014/10/07/getting-gulpy/"/>
+    <id>http://lingyu.life/2014/10/07/getting-gulpy/</id>
     <published>2014-10-06T16:00:00.000Z</published>
-    <updated>2020-03-07T15:11:55.021Z</updated>
+    <updated>2020-03-07T15:17:28.447Z</updated>
     
     <summary type="html">
     
@@ -262,10 +262,10 @@
   
   <entry>
     <title>Gulp -- 项目的愿景、过去和将来</title>
-    <link href="http://lingyu.life/2014/10/06/old/gulp-vision-history-future/"/>
-    <id>http://lingyu.life/2014/10/06/old/gulp-vision-history-future/</id>
+    <link href="http://lingyu.life/2014/10/06/gulp-vision-history-future/"/>
+    <id>http://lingyu.life/2014/10/06/gulp-vision-history-future/</id>
     <published>2014-10-05T16:00:00.000Z</published>
-    <updated>2020-03-07T15:11:55.021Z</updated>
+    <updated>2020-03-07T15:17:28.448Z</updated>
     
     <summary type="html">
     
@@ -288,10 +288,10 @@
   
   <entry>
     <title>koa-anywhere</title>
-    <link href="http://lingyu.life/2014/09/24/old/koa-anywhere/"/>
-    <id>http://lingyu.life/2014/09/24/old/koa-anywhere/</id>
+    <link href="http://lingyu.life/2014/09/24/koa-anywhere/"/>
+    <id>http://lingyu.life/2014/09/24/koa-anywhere/</id>
     <published>2014-09-23T16:00:00.000Z</published>
-    <updated>2020-03-07T15:11:55.021Z</updated>
+    <updated>2020-03-07T15:17:28.928Z</updated>
     
     <summary type="html">
     
@@ -313,10 +313,10 @@
   
   <entry>
     <title>学前端的一点总结</title>
-    <link href="http://lingyu.life/2014/09/22/old/learn-fe/"/>
-    <id>http://lingyu.life/2014/09/22/old/learn-fe/</id>
+    <link href="http://lingyu.life/2014/09/22/learn-fe/"/>
+    <id>http://lingyu.life/2014/09/22/learn-fe/</id>
     <published>2014-09-21T16:00:00.000Z</published>
-    <updated>2020-03-07T15:11:55.021Z</updated>
+    <updated>2020-03-07T15:17:28.928Z</updated>
     
     <summary type="html">
     
@@ -340,10 +340,10 @@
   
   <entry>
     <title>细说Generator</title>
-    <link href="http://lingyu.life/2014/07/29/old/generator/"/>
-    <id>http://lingyu.life/2014/07/29/old/generator/</id>
+    <link href="http://lingyu.life/2014/07/29/generator/"/>
+    <id>http://lingyu.life/2014/07/29/generator/</id>
     <published>2014-07-28T16:00:00.000Z</published>
-    <updated>2020-03-07T15:11:55.021Z</updated>
+    <updated>2020-03-07T15:17:28.447Z</updated>
     
     <summary type="html">
     
@@ -367,10 +367,10 @@
   
   <entry>
     <title>如何写一个KISSY动画插件</title>
-    <link href="http://lingyu.life/2014/05/31/old/kissy-anime-plugin/"/>
-    <id>http://lingyu.life/2014/05/31/old/kissy-anime-plugin/</id>
+    <link href="http://lingyu.life/2014/05/31/kissy-anime-plugin/"/>
+    <id>http://lingyu.life/2014/05/31/kissy-anime-plugin/</id>
     <published>2014-05-30T16:00:00.000Z</published>
-    <updated>2020-03-07T15:11:55.021Z</updated>
+    <updated>2020-03-07T15:17:28.928Z</updated>
     
     <summary type="html">
     
@@ -396,10 +396,10 @@
   
   <entry>
     <title>WebRTC的RTCDataChannel</title>
-    <link href="http://lingyu.life/2014/05/22/old/webrtc-data-channels/"/>
-    <id>http://lingyu.life/2014/05/22/old/webrtc-data-channels/</id>
+    <link href="http://lingyu.life/2014/05/22/webrtc-data-channels/"/>
+    <id>http://lingyu.life/2014/05/22/webrtc-data-channels/</id>
     <published>2014-05-21T16:00:00.000Z</published>
-    <updated>2020-03-07T15:11:55.356Z</updated>
+    <updated>2020-03-07T15:17:29.611Z</updated>
     
     <summary type="html">
     
@@ -425,11 +425,34 @@
   </entry>
   
   <entry>
-    <title>使用导航计时监测渲染关键路径</title>
-    <link href="http://lingyu.life/2014/05/21/old/google-measuring-the-critical-rendering-path-with-navigation-timing/"/>
-    <id>http://lingyu.life/2014/05/21/old/google-measuring-the-critical-rendering-path-with-navigation-timing/</id>
+    <title>CSS的渲染阻塞</title>
+    <link href="http://lingyu.life/2014/05/21/google-render-blocking-css/"/>
+    <id>http://lingyu.life/2014/05/21/google-render-blocking-css/</id>
     <published>2014-05-20T16:00:00.000Z</published>
-    <updated>2020-03-07T15:11:55.021Z</updated>
+    <updated>2020-03-07T15:17:28.447Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;默认情况下，CSS会被看做是渲染阻塞资源，也就是说，浏览器在CSSOM建立前，已经处理过的网页内容不会被显示到页面上。所以，保证你的CSS代码能够快速从服务器获取且尽可能的简短，并注意使用媒体类型（media types）和媒体查询（media queries）去进行非阻塞的渲染。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="翻译" scheme="http://lingyu.life/categories/%E7%BF%BB%E8%AF%91/"/>
+    
+    
+      <category term="CSS" scheme="http://lingyu.life/tags/CSS/"/>
+    
+      <category term="HTML" scheme="http://lingyu.life/tags/HTML/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>使用导航计时监测渲染关键路径</title>
+    <link href="http://lingyu.life/2014/05/21/google-measuring-the-critical-rendering-path-with-navigation-timing/"/>
+    <id>http://lingyu.life/2014/05/21/google-measuring-the-critical-rendering-path-with-navigation-timing/</id>
+    <published>2014-05-20T16:00:00.000Z</published>
+    <updated>2020-03-07T15:17:28.447Z</updated>
     
     <summary type="html">
     
@@ -449,10 +472,10 @@
   
   <entry>
     <title>通过JavaScript增加交互性</title>
-    <link href="http://lingyu.life/2014/05/21/old/google-adding-interactivity-with-javaScript/"/>
-    <id>http://lingyu.life/2014/05/21/old/google-adding-interactivity-with-javaScript/</id>
+    <link href="http://lingyu.life/2014/05/21/google-adding-interactivity-with-javaScript/"/>
+    <id>http://lingyu.life/2014/05/21/google-adding-interactivity-with-javaScript/</id>
     <published>2014-05-20T16:00:00.000Z</published>
-    <updated>2020-03-07T15:11:55.021Z</updated>
+    <updated>2020-03-07T15:17:28.449Z</updated>
     
     <summary type="html">
     
@@ -471,38 +494,15 @@
   </entry>
   
   <entry>
-    <title>CSS的渲染阻塞</title>
-    <link href="http://lingyu.life/2014/05/21/old/google-render-blocking-css/"/>
-    <id>http://lingyu.life/2014/05/21/old/google-render-blocking-css/</id>
-    <published>2014-05-20T16:00:00.000Z</published>
-    <updated>2020-03-07T15:11:55.021Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;默认情况下，CSS会被看做是渲染阻塞资源，也就是说，浏览器在CSSOM建立前，已经处理过的网页内容不会被显示到页面上。所以，保证你的CSS代码能够快速从服务器获取且尽可能的简短，并注意使用媒体类型（media types）和媒体查询（media queries）去进行非阻塞的渲染。&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="翻译" scheme="http://lingyu.life/categories/%E7%BF%BB%E8%AF%91/"/>
-    
-    
-      <category term="CSS" scheme="http://lingyu.life/tags/CSS/"/>
-    
-      <category term="HTML" scheme="http://lingyu.life/tags/HTML/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>渲染树的构建，布局和绘制</title>
-    <link href="http://lingyu.life/2014/05/20/old/google-render-tree-construction-layout-and-paint/"/>
-    <id>http://lingyu.life/2014/05/20/old/google-render-tree-construction-layout-and-paint/</id>
+    <title>构建对象模型</title>
+    <link href="http://lingyu.life/2014/05/20/google-constructing-the-object-model/"/>
+    <id>http://lingyu.life/2014/05/20/google-constructing-the-object-model/</id>
     <published>2014-05-19T16:00:00.000Z</published>
-    <updated>2020-03-07T15:11:55.021Z</updated>
+    <updated>2020-03-07T15:17:28.447Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;CSSOM树和DOM树组合生成渲染树，渲染树将决定每一个可见元素的计算样式，并作为输入交给绘制线程，绘制线程将会把他们渲染成像素打到屏幕上。优化这些步骤将是提升渲染性能的关键所在。&lt;/p&gt;
+      &lt;p&gt;浏览器渲染页面之前会构建DOM树和CSSOM树&lt;/p&gt;
     
     </summary>
     
