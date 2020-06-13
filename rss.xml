@@ -15,7 +15,7 @@
     <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
-    <pubDate>Sat, 13 Jun 2020 16:59:17 GMT</pubDate>
+    <pubDate>Sat, 13 Jun 2020 17:02:44 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -24,15 +24,11 @@
       <guid>https://lingyu.life/#/post/2020/06/14/new/read-fe-basement</guid>
       <pubDate>Sat, 13 Jun 2020 16:00:00 GMT</pubDate>
       
-        
-        
-      <description>&lt;p&gt;&lt;img src=&quot;https://lingyu-blog.oss-cn-hangzhou.aliyuncs.com/img/%E5%9F%BA%E5%BB%BA.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-</description>
-        
+      <description>&lt;p&gt;精读系列&lt;/p&gt;</description>
       
       
       
-      <content:encoded><![CDATA[<p><img src="https://lingyu-blog.oss-cn-hangzhou.aliyuncs.com/img/%E5%9F%BA%E5%BB%BA.png" alt=""></p>]]></content:encoded>
+      <content:encoded><![CDATA[<p>精读系列</p><a id="more"></a><p><img src="https://lingyu-blog.oss-cn-hangzhou.aliyuncs.com/img/%E5%9F%BA%E5%BB%BA.png" alt=""></p>]]></content:encoded>
       
       
       <category domain="http://lingyu.life/categories/%E5%89%8D%E7%AB%AF%E6%9E%B6%E6%9E%84/">前端架构</category>
