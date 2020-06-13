@@ -15,8 +15,37 @@
     <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
-    <pubDate>Fri, 12 Jun 2020 10:33:13 GMT</pubDate>
+    <pubDate>Sat, 13 Jun 2020 16:59:17 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>精读《前端搞基建》</title>
+      <link>https://lingyu.life/#/post/2020/06/14/new/read-fe-basement</link>
+      <guid>https://lingyu.life/#/post/2020/06/14/new/read-fe-basement</guid>
+      <pubDate>Sat, 13 Jun 2020 16:00:00 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;&lt;img src=&quot;https://lingyu-blog.oss-cn-hangzhou.aliyuncs.com/img/%E5%9F%BA%E5%BB%BA.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<p><img src="https://lingyu-blog.oss-cn-hangzhou.aliyuncs.com/img/%E5%9F%BA%E5%BB%BA.png" alt=""></p>]]></content:encoded>
+      
+      
+      <category domain="http://lingyu.life/categories/%E5%89%8D%E7%AB%AF%E6%9E%B6%E6%9E%84/">前端架构</category>
+      
+      
+      <category domain="http://lingyu.life/tags/%E7%B2%BE%E8%AF%BB/">精读</category>
+      
+      <category domain="http://lingyu.life/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/">读书笔记</category>
+      
+      
+      <comments>http://lingyu.life/2020/06/14/new/read-fe-basement/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>聊一聊前端模块化</title>
@@ -501,33 +530,6 @@
       
       
       <comments>http://lingyu.life/2014/10/06/old/gulp-vision-history-future/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>koa-anywhere</title>
-      <link>https://lingyu.life/#/post/2014/09/24/old/koa-anywhere</link>
-      <guid>https://lingyu.life/#/post/2014/09/24/old/koa-anywhere</guid>
-      <pubDate>Tue, 23 Sep 2014 16:00:00 GMT</pubDate>
-      
-      <description>&lt;p&gt;最近写了一个快速启动静态文件服务器的NodeJs包&lt;a href=&quot;https://github.com/LingyuCoder/koa-anywhere&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;koa-anywhere&lt;/a&gt;，可以通过一条命令快速的启动静态文件服务器，而且支持多级目录。目前已经发到了NPM上了&lt;/p&gt;</description>
-      
-      
-      
-      <content:encoded><![CDATA[<p>最近写了一个快速启动静态文件服务器的NodeJs包<a href="https://github.com/LingyuCoder/koa-anywhere" target="_blank" rel="noopener">koa-anywhere</a>，可以通过一条命令快速的启动静态文件服务器，而且支持多级目录。目前已经发到了NPM上了</p><a id="more"></a><h1 id="koa-anywhere"><a href="#koa-anywhere" class="headerlink" title="koa-anywhere"></a>koa-anywhere</h1><p>通过一条命令，将当前目录变成一个静态文件服务器</p><p>需要Node版本：&gt;= 0.11.13</p><h1 id="Install"><a href="#Install" class="headerlink" title="Install"></a>Install</h1><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ npm install -g koa-anywhere</span><br></pre></td></tr></table></figure><h1 id="Usage"><a href="#Usage" class="headerlink" title="Usage"></a>Usage</h1><p>只需一条简单的命令<code>ka</code>就可以启动一个静态文件服务器</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ cd &lt;想要共享的目录&gt;</span><br><span class="line">$ ka</span><br></pre></td></tr></table></figure><h2 id="Option"><a href="#Option" class="headerlink" title="Option"></a>Option</h2><h3 id="port"><a href="#port" class="headerlink" title="port"></a>port</h3><p>通过<code>-p &lt;端口号&gt;</code>或者<code>--port &lt;端口号&gt;</code>来指定静态文件服务器的端口</p><p>默认端口为<code>3000</code></p><h3 id="deep"><a href="#deep" class="headerlink" title="deep"></a>deep</h3><p>通过<code>-d &lt;层级数&gt;</code>或者<code>--deep &lt;层级数&gt;</code>来确定静态文件需要显示的文件层级，超过层级的文件不显示</p><p>默认层级数为<code>3</code></p><h3 id="silent"><a href="#silent" class="headerlink" title="silent"></a>silent</h3><p>通过<code>-s</code>或者<code>--silent</code>来决定是否显示日志</p><p>默认为<code>false</code>，也就是显示日志</p>]]></content:encoded>
-      
-      
-      <category domain="http://lingyu.life/categories/%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%8C%96/">前端工程化</category>
-      
-      
-      <category domain="http://lingyu.life/tags/NodeJs/">NodeJs</category>
-      
-      <category domain="http://lingyu.life/tags/ES6/">ES6</category>
-      
-      <category domain="http://lingyu.life/tags/koa/">koa</category>
-      
-      
-      <comments>http://lingyu.life/2014/09/24/old/koa-anywhere/#disqus_thread</comments>
       
     </item>
     
